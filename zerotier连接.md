@@ -12,9 +12,11 @@
 -------
 
 - 点击add network
-- 图中第一行输入`9e1948db632f4072`然后点击add
+- 图中第一行输入`9e1948db632f4072`然后点击`add`
 
-![2.png](https://img.920zm.cn/i/2024/09/15/TdRgeOvFbkl9nVxL.png)
+![2.png](https://img.920zm.cn/i/2024/09/15/IJkKr6PTkf3Jekpj.png)
+
+![3.png](https://img.920zm.cn/i/2024/09/15/1TbWR5uyHxqMrsOf.png)
 
 3. 最后连接即可
 
